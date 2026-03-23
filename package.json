@@ -3,9 +3,9 @@
   "displayName": "Kiro Specs Dashboard",
   "description": "Extension for visualizing and tracking Kiro spec features and tasks.",
   "version": "0.1.7",
-  "publisher": "grg-lab",
+  "publisher": "EliezerRangel",
   "author": {
-    "name": "grg-lab"
+    "name": "EliezerRangel"
   },
   "license": "MIT",
   "repository": {
