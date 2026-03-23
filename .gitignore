@@ -37,3 +37,5 @@ coverage/
 
 # VSCode settings
 .vscode/
+.copilot-specs-cache/
+.qcommitrc.yml
